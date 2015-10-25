@@ -1,0 +1,8 @@
+Origin: TMSTweaks
+Label: TMSTweaks
+Suite: stable
+Version: 1.0
+Codename: Y[e]
+Architectures: iphoneos-arm
+Components: main
+Description: A place for all my early alpha tweaks!
