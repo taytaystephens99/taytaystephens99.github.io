@@ -1,12 +1,12 @@
 Package: com.tmstweaks.KillBoard
-Version: 1.4
+Version: 1.4-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/com.tmstweaks.KillBoard_1.4_iphoneos-arm.deb
-Size: 44024
-MD5sum: c0a1440569e5f1ef96b7aea9db68c8c7
-SHA1: cf72390de556f72318914e42ee12d209d2cdd4d1
-SHA256: 39c187e34f8c97a03c23965af47bd9c511f435face9893ffafb66ffef0c11e79
+Filename: ./debs/com.tmstweaks.KillBoard_1.4-2_iphoneos-arm.deb
+Size: 43916
+MD5sum: a9521a5335d50c8aa8700b0c2fe785b2
+SHA1: ef79ee9046aba3e2f6b374965ca0abb44751ce8c
+SHA256: e71c1a02f4138b706aed32f63c900e0f0c1dab4fa6c9a4f0a89e085242bd0209
 Section: Tweaks
 Priority: optional
 Author: TMSTweaks
