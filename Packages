@@ -3,12 +3,13 @@ Version: 1.4-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/com.tmstweaks.KillBoard_1.4-2_iphoneos-arm.deb
-Size: 43916
-MD5sum: a9521a5335d50c8aa8700b0c2fe785b2
-SHA1: ef79ee9046aba3e2f6b374965ca0abb44751ce8c
-SHA256: e71c1a02f4138b706aed32f63c900e0f0c1dab4fa6c9a4f0a89e085242bd0209
+Size: 43972
+MD5sum: 96f1ab08c8231eb53a95e28ee155d809
+SHA1: b6366cd730d064027ef082fac33621eef98f4b67
+SHA256: 167c37669c74d5df6a78dc300f202490ba420fbc6d92f9c2a86f354c4fc28785
 Section: Tweaks
 Priority: optional
+Description: An awesome app switcher tweak to respring, reboot, shutdown, and go into safemode.
 Author: TMSTweaks
 Depiction: http://tmstweaks.co.nf/killboarddepiction/index.html
 Name: KillBoard
