@@ -1,8 +1,53 @@
+Package: com.tmstweaks.ActiMusic
+Version: 1.0-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: .//com.tmstweaks.ActiMusic_1.0-1_iphoneos-arm.deb
+Size: 177200
+MD5sum: aab5c0ac8a66de8bb7cc100218f70bb7
+SHA1: bc7dbf161a37b3b75e916b54035f17ca3a8ab9fc
+SHA256: 77b7563a3b47cb36079ca42bc0851d16fdc422f4a57456c7c1dbe69e2a0599cb
+Section: System
+Priority: optional
+Author: Taylor Stephens
+Name: ActiMusic
+
+Package: com.tmstweaks.KillBoard
+Version: 1.4
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: .//com.tmstweaks.KillBoard_1.4_iphoneos-arm.deb
+Size: 44024
+MD5sum: c0a1440569e5f1ef96b7aea9db68c8c7
+SHA1: cf72390de556f72318914e42ee12d209d2cdd4d1
+SHA256: 39c187e34f8c97a03c23965af47bd9c511f435face9893ffafb66ffef0c11e79
+Section: Tweaks
+Priority: optional
+Author: TMSTweaks
+Depiction: http://tmstweaks.co.nf/killboarddepiction/index.html
+Name: KillBoard
+
+Package: com.tmstweaks.KillBoard
+Version: 1.4-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: .//com.tmstweaks.KillBoard_1.4-1_iphoneos-arm.deb
+Size: 43972
+MD5sum: 77b0dc12db6cbd9f917b0cc27ae6a2dd
+SHA1: aa6b711dff446a02b9d02dc1432ad5ce1c618551
+SHA256: d3ad17941628bd7208b2704eefe13137683ca061bc13cd22e253df6e9394b981
+Section: Tweaks
+Priority: optional
+Description: An awesome app switcher tweak to respring, reboot, shutdown, and go into safemode.
+Author: TMSTweaks
+Depiction: http://tmstweaks.co.nf/killboarddepiction/index.html
+Name: KillBoard
+
 Package: com.tmstweaks.KillBoard
 Version: 1.4-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/com.tmstweaks.KillBoard_1.4-2_iphoneos-arm.deb
+Filename: .//com.tmstweaks.KillBoard_1.4-2_iphoneos-arm.deb
 Size: 43972
 MD5sum: 96f1ab08c8231eb53a95e28ee155d809
 SHA1: b6366cd730d064027ef082fac33621eef98f4b67
@@ -19,7 +64,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Taylor Stephens
 Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/com.tmstweaks.Sonum_1.0_iphoneos-arm.deb
+Filename: .//com.tmstweaks.Sonum_1.0_iphoneos-arm.deb
 Size: 70928
 MD5sum: 2b20b24cee496d2dd14d6f140b00db26
 SHA1: 0514687e0f7c97979c8d4fd1c5223a8321f2514f
