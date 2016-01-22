@@ -1,0 +1,55 @@
+Package: com.tmstweaks.ActiMusic
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Taylor Stephens
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs//com.tmstweaks.ActiMusic_1.0.1-1_iphoneos-arm.deb
+Size: 172912
+MD5sum: 323d8fd837163d8ab22e363843e965ec
+SHA1: a3ae0b2698f65f5a41661e7766a57ee289a235ad
+SHA256: adfd9b553f1447000306e89279d8f0f8c1b770d0062a95aae6324068489498bd
+Section: Tweaks
+Priority: optional
+Homepage: http://tmstweaks.co.nf
+Description: Control Your Music with Style and Elegance using ActiMusic.
+Author: Taylor Stephens
+Depiction: http://tmstweaks.co.nf/actimusicdepiction/index.html
+Dev: http://tmstweaks.co.nf
+Name: ActiMusic
+
+Package: com.tmstweaks.KillBoard
+Version: 1.4-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs//com.tmstweaks.KillBoard_1.4-2_iphoneos-arm.deb
+Size: 43972
+MD5sum: 96f1ab08c8231eb53a95e28ee155d809
+SHA1: b6366cd730d064027ef082fac33621eef98f4b67
+SHA256: 167c37669c74d5df6a78dc300f202490ba420fbc6d92f9c2a86f354c4fc28785
+Section: Tweaks
+Priority: optional
+Description: An awesome app switcher tweak to respring, reboot, shutdown, and go into safemode.
+Author: TMSTweaks
+Depiction: http://tmstweaks.co.nf/killboarddepiction/index.html
+Name: KillBoard
+
+Package: com.tmstweaks.Sonum
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Taylor Stephens
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./debs//com.tmstweaks.Sonum_1.0_iphoneos-arm.deb
+Size: 70928
+MD5sum: 2b20b24cee496d2dd14d6f140b00db26
+SHA1: 0514687e0f7c97979c8d4fd1c5223a8321f2514f
+SHA256: 01f947b0ee08130481769c9479c770f2f07c08430fbb1da230dc438055b8ed5b
+Section: Tweaks
+Priority: optional
+Homepage: http://tmstweaks.s3-website-us-east-1.amazonaws.com
+Description: A Control Center replacement tweak still in Alpha.
+Author: Taylor Stephens
+Depiction: http://tmstweaks.co.nf/depiction/index.html
+Dev: http://tmstweaks.s3-website-us-east-1.amazonaws.com
+Icon: file:icon.png
+Name: Sonum
+
