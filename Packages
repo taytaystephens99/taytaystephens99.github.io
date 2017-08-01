@@ -1,13 +1,13 @@
 Package: com.tmstweaks.ActiMusic
-Version: 1.0
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Taylor Stephens
 Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs//com.tmstweaks.ActiMusic_1.0_iphoneos-arm.deb
-Size: 175798
-MD5sum: f654b4a2e1ba2bfecd8ca4e35e965b1e
-SHA1: 33fc25bdf7555fd9aeabfa65d08cfaf9fa3a36b6
-SHA256: 13f4be8ede47f6f712d1634f6ede3bdb6bccadf843571be25c32ef48b2a95de5
+Filename: ./debs//com.tmstweaks.ActiMusic_1.0-1_iphoneos-arm.deb
+Size: 175874
+MD5sum: 42be83796290c03acaefb0486b50e73c
+SHA1: d9c3c8a1f6aac09c2d7e969c0704f18dca47ad55
+SHA256: 4fe0a7531eb9f619d027b5d717445b27cc9735c950e4d62160eb7fde10cf25dc
 Section: Tweaks
 Priority: optional
 Homepage: http://tmstweaks.co.nf
